@@ -8,7 +8,7 @@ I'm a physics student with a passion for the universe—from quantum circuits to
 
 ## 📁 Featured Projects
 
-- **CV & Portfolio**: [View my CV and design portfolio](https://drive.google.com/drive/folders/1PP9f0wzgBq0TpkDRnVu_N0CJ8lPROsKA)
+- **CV & Portfolio**: [View my CV and design portfolio](https://github.com/Skyewater270/Skyewater270.github.io/blob/main/CV.pdf)
 - **Atmosphere Modeling**: Simulating planetary atmospheres and interpreting habitability metrics.
 - **Quantum Simulations**: Exploring Qiskit and quantum distributions in Python.
 - **Science Outreach**: Posters, branding, and visual storytelling for competitions and public engagement.
